@@ -18,7 +18,46 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
+# =========================
+# NBA League Pass Rules
+# =========================
+
+# --- 主站 / API ---
 DOMAIN-SUFFIX,nba.com
-DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,nba.net
+DOMAIN-SUFFIX,watch.nba.com
+DOMAIN-SUFFIX,stats.nba.com
+DOMAIN-SUFFIX,cdn.nba.com
+DOMAIN-SUFFIX,core-api.nba.com
+DOMAIN-SUFFIX,api.nba.com
+
+# --- League Pass 播放与鉴权 ---
+DOMAIN-SUFFIX,nbaprop.com
+DOMAIN-SUFFIX,neulion.com
+DOMAIN-SUFFIX,nbalab.com
+
+# --- Akamai / 视频 CDN（非常关键）---
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+
+# --- 备用 CDN（部分地区使用）---
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,cloudfront.net
+
+# --- 移动端 App ---
+DOMAIN-SUFFIX,nba-api.com
+DOMAIN-SUFFIX,nba.com.edgesuite.net
+
+# --- 广告 & 播放支持（不加有时会黑屏）---
+DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,conviva.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,demdex.net
+
+# --- 图片 / 资源 ---
+DOMAIN-SUFFIX,nbcsports.com
+DOMAIN-SUFFIX,turner.com
 
